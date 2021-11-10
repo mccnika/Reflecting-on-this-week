@@ -37,6 +37,8 @@ Digital Wellbeing Experiments: a collection of tools available to designers and 
 
 ###### *Physical Computing*
 Physical computing means programming in order to interact with the world that surrounds these programs. An example that comes to my mind is the _Albero Della Vita_ that was put in exposition at EXPO 2015, which took place in Milan, Italy. It’s a big sculpture/installation made of wood and steel that illuminates to the rhythm of music and water. Another example is the _Flowers of Light_ that were shown in one of the gazebos at EXPO 2015. The fake flowers shine whenever you move your hand over the large field of these flowers. 
+~~![https://brescia.corriere.it/notizie/cronaca/16_marzo_17/expo-milano-albero-della-vita-spento-luci-spettacolo-alessandra-troncana-brescia-96caab4c-ec14-11e5-b4bb-fbc47dd8e9c6.shtml]~~
+
 
 
 
