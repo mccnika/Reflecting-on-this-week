@@ -1,5 +1,5 @@
 # **Reflecting on this week**
-Technology and learning new things are quite overwhelming for me, therefore creative computing seems to be more **_overwhelming_** than I expected. For this reasong, I will take small steps and begin by reflecting on Monday's workshop and on what I am learning about creative computing.
+Technology and learning new things are quite overwhelming for me, therefore creative computing seems to be more **_overwhelming_** than I expected. For this reason, I will take small steps and begin by reflecting on Monday's workshop and on what I am learning about creative computing.
 
 **_Computing_** is the activity that computers use to manage and communicate information and tasks. It consists of the design and development of hardware/software. Computing has mathematical, scientific, technological and social aspects. I have studied graphic design in college for two years but it was never mentioned that mathematics has a part in graphic design; coding was sometimes mentioned but never explained, so I am not familiar with it. 
 Watching the video in class, I learnt that mechanisation was introduced during the industrial revolution for a better-quality life. Today, everything is run by machines, somehow every aspect of our life is linked to the huge systems that control our everyday life. Technology keeps evolving, new products keep being created that then evolve into more complex forms. 
@@ -11,8 +11,40 @@ Creative computing combines creative arts and computing. Creative computing is f
 ###### *Open Source*
 An open source is a *code made* to be accessible to people to modify and share. It gives you permission to use content and sources. It pushes people to produce and share to the public. Open source was created as a response to codes that were not accessible to everyone.
 
-Example from SOLEIO, a music producer turned into investor: in 2008 GitHub was introduced. Here people could share and discover open projects. It resembles the sampling world of music: producers create music using pieces taken from other songs. It shows that both pieces of music can coexist. 
+Here's an example taken by this talk _Open Source Design: Design is the Future of Open Source - Soleio, Combine (Config)_. Soleio is a music producer turned into investor. In 2008 GitHub was introduced. Here people could share and discover open projects. It resembles the sampling world of music: producers create music using pieces taken from other songs. It shows that both pieces of music can coexist. 
 He later talks about what open source could look like if it was accessible to all people and not just coders. He mentiones the **_Me Too_** movement started in 2017: a Google spreadsheet was created by Moira Donegan to organise claims of sexual assaults. She shared it with close friends and it was being brought to light when it was shared with more women in the industry. It became a resource and it helped to empower more people into opening up and make justice.
 
-SOLEIO states **
->design is a future open source. we must broaden access to technology and design. Power should be expanded to everyone. Design is something you do, you do not possess design. 
+SOLEIO states:
+>Design is a future open source. We must broaden access to technology and design. Power should be expanded to everyone. Design is something you do, you do not possess design. 
+
+
+###### *Examples of creative computing communities*
+
+- p5.js: it’s a **JavaScript** that is accessible and inclusive for everyone. It’s a community made of people from different backgrounds. It makes it possible for everyone to easily access to it.
+- Stack Overflow, a website for programmers where they can ask and answer each other’s questions. It’s similar to Reddit. It would seem as a very useful way of finding information and helping each other out, but it was criticised for not being gender inclusive
+- Digi-gxl is another inclusive community that was born as a response to the lack of representation of women, non-binary, transgender, intersex designers. **They push people who are not cis male designers to get involved with tech. **
+
+_JavaScript_: programming language
+
+TALK ABOUT HOW SEXISM ETC IN TECHNOLOY AND EVERYDAY LIFE
+
+
+
+
+###### *Examples of open source*
+Digital Wellbeing Experiments: a collection of tools available to designers and developers to help them build ideas and develop their work. Like the communities I previously mentioned, it aims to involve as many people as possible.
+
+
+###### *Physical Computing*
+Physical computing means programming in order to interact with the world that surrounds these programs. An example that comes to my mind is the _Albero Della Vita_ that was put in exposition at EXPO 2015, which took place in Milan, Italy. It’s a big sculpture/installation made of wood and steel that illuminates to the rhythm of music and water. Another example is the _Flowers of Light_ that were shown in one of the gazebos at EXPO 2015. The fake flowers shine whenever you move your hand over the large field of these flowers. 
+
+
+
+
+###### *Arduino*
+During the workshop, Jazmin Morris introduced us to Arduino. Arduino is an open source and company that produces single-board microcontrollers and microcontroller kits for building digital devices. 
+We were then introduced to Tinkercad, a web app where you can create models for 3D printings. These designs are made up of solid and “hole” shapes. As I wasn’t able to take an Arduino kit with me, I worked with the online circuit simulator on TinkerCAD.
+The outcome for this mini project is a read me file. I have heard of this file before when downloading fonts or mock-ups online, when opening the folder? them onto my laptop. There was a file that contained the actual photoshop files and another one file named readme. In a few words, a readme file stores information about other files.
+
+
+
