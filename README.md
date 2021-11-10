@@ -1,4 +1,18 @@
 # **Reflecting on this week**
 Technology and learning new things are quite overwhelming for me, therefore creative computing seems to be more **_overwhelming_** than I expected. For this reasong, I will take small steps and begin by reflecting on Monday's workshop and on what I am learning about creative computing.
 
-Computing is the activity that computers use to manage and communicate information and tasks. It consists of the design and development of hardware/software. Computing has mathematical, scientific, technological and social aspects.
+**_Computing_** is the activity that computers use to manage and communicate information and tasks. It consists of the design and development of hardware/software. Computing has mathematical, scientific, technological and social aspects. I have studied graphic design in college for two years but it was never mentioned that mathematics has a part in graphic design; coding was sometimes mentioned but never explained, so I am not familiar with it. 
+Watching the video in class, I learnt that mechanisation was introduced during the industrial revolution for a better-quality life. Today, everything is run by machines, somehow every aspect of our life is linked to the huge systems that control our everyday life. Technology keeps evolving, new products keep being created that then evolve into more complex forms. 
+It’s interesting to reflect on how calculator tools were introduced to solve everyday problems, which at that time were focused on agriculture and practical jobs to produce food. The first device used for computing was the **abacus**, thought to be invented in Mesopotamia circa 2500 BC: it is known as the first-hand operated calculator tool. Charles Babbage is said to have originated the concept of a digital **_computer_**. The term _computer_ was first introduced in 1613 in a book called _The Yong Mans Gleanings_ by English writer Richard Braithwaite: at that time, the term was used to refer to a person who did calculations. In the 1800s the meaning shifted to refer to devices. These devices were doing the work that was before done by people referred as computers, but the devices still required loads of time to generate one result, as well as being very expensive and not accessible to everybody. By the end of the 19th century, computers were used for special purpose tasks in the science and engineering fields. By the mid 1900s the use of these devices was included into other fields, all of this because of the rising of the population. 
+
+###### *Creative Computing*
+Creative computing combines creative arts and computing. Creative computing is found in web design, games, apps, interactive systems.
+
+###### *Open Source*
+An open source is a *code made* to be accessible to people to modify and share. It gives you permission to use content and sources. It pushes people to produce and share to the public. Open source was created as a response to codes that were not accessible to everyone.
+
+Example from SOLEIO, a music producer turned into investor: in 2008 GitHub was introduced. Here people could share and discover open projects. It resembles the sampling world of music: producers create music using pieces taken from other songs. It shows that both pieces of music can coexist. 
+He later talks about what open source could look like if it was accessible to all people and not just coders. He mentiones the **_Me Too_** movement started in 2017: a Google spreadsheet was created by Moira Donegan to organise claims of sexual assaults. She shared it with close friends and it was being brought to light when it was shared with more women in the industry. It became a resource and it helped to empower more people into opening up and make justice.
+
+SOLEIO states **
+>design is a future open source. we must broaden access to technology and design. Power should be expanded to everyone. Design is something you do, you do not possess design. 
