@@ -48,7 +48,12 @@ We were then introduced to Tinkercad, a web app where you can create models for 
 
 ![IMG_20211111_111442](https://user-images.githubusercontent.com/93936365/141288898-30cf212e-41e4-48ac-a539-6487aa56e4c6.png)
 
-The outcome for this mini project is a read me file. I have heard of this file before when downloading fonts or mock-ups online, when opening the folder? them onto my laptop. There was a file that contained the actual photoshop files and another one file named readme. In a few words, a readme file stores information about other files.
+
+###### *Outcome*
+The outcome for this mini project is a read.me file. I have heard of this file before when downloading fonts or mock-ups online: when opening these folders, you would find the folder with the font in it to install on the computer, and another folder name read.me, full of codes. In a few words, a readme file stores information about other files.
 
 
+## Final Reflection
+I don't believe Creative Computing is something I want to explore and learn more in depth. As I mentioned at the beginning, I find technology very overwhelming, working with computers has always been a struggle for me due to the multiple numbers and words that I kept bumping into when workin with it. I think I am more interested in the artistic side of graphic design, working with layouts, images, colours, but not numbers. However, I am always open to learn new things, and I would definitely want to learn the basics of creative computing.
+Looking into computing and technology, it reminded me of when in school teachers would always ask boys to help them when they bumped themselves into problems when using the computer: it always have been boys, they taught us since young that technology is something only boys "understand", something only boys "can be interested into", and they always expected the rest of us to take instead care of ????
 
