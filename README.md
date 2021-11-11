@@ -40,7 +40,7 @@ Physical computing means programming in order to interact with the world that su
 
 
 ###### *Arduino*
-On Monday, after the presentation they gave on Creative Computing, Jazmin Morris introduced us to Arduino. Arduino is an open source and company that produces single-board microcontrollers and microcontroller kits for building digital devices. In pairs, we 
+On Monday, after the presentation they gave on Creative Computing, Jazmin Morris introduced us to Arduino. Arduino is an open source and company that produces single-board microcontrollers and microcontroller kits for building digital devices. In pairs, we worked on lighting one LED light with the kit given to us.
 We were then introduced to Tinkercad, a web app where you can create models for 3D printings. These designs are made up of solid and “hole” shapes. As I wasn’t able to take an Arduino kit with me, I worked with the online circuit simulator on TinkerCAD.
 
 ![IMG_20211111_111442](https://user-images.githubusercontent.com/93936365/141288898-30cf212e-41e4-48ac-a539-6487aa56e4c6.png)
