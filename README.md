@@ -28,9 +28,6 @@ SOLEIO states:
 
 _JavaScript_: programming language
 
-TALK ABOUT HOW SEXISM ETC IN TECHNOLOY AND EVERYDAY LIFE
-
-
 
 
 ###### *Examples of open source*
@@ -43,7 +40,7 @@ Physical computing means programming in order to interact with the world that su
 
 
 ###### *Arduino*
-On Monday, after the presentation they gave on Creative Computing, Jazmin Morris introduced us to Arduino. Arduino is an open source and company that produces single-board microcontrollers and microcontroller kits for building digital devices. 
+On Monday, after the presentation they gave on Creative Computing, Jazmin Morris introduced us to Arduino. Arduino is an open source and company that produces single-board microcontrollers and microcontroller kits for building digital devices. In pairs, we 
 We were then introduced to Tinkercad, a web app where you can create models for 3D printings. These designs are made up of solid and “hole” shapes. As I wasn’t able to take an Arduino kit with me, I worked with the online circuit simulator on TinkerCAD.
 
 ![IMG_20211111_111442](https://user-images.githubusercontent.com/93936365/141288898-30cf212e-41e4-48ac-a539-6487aa56e4c6.png)
@@ -53,7 +50,7 @@ We were then introduced to Tinkercad, a web app where you can create models for 
 The outcome for this mini project is a read.me file. I have heard of this file before when downloading fonts or mock-ups online: when opening these folders, you would find the folder with the font in it to install on the computer, and another folder name read.me, full of codes. In a few words, a readme file stores information about other files.
 
 
-## Final Reflection
-I don't believe Creative Computing is something I want to explore and learn more in depth. As I mentioned at the beginning, I find technology very overwhelming, working with computers has always been a struggle for me due to the multiple numbers and words that I kept bumping into when workin with it. I think I am more interested in the artistic side of graphic design, working with layouts, images, colours, but not numbers. However, I am always open to learn new things, and I would definitely want to learn the basics of creative computing.
-Looking into computing and technology, it reminded me of when in school teachers would always ask boys to help them when they bumped themselves into problems when using the computer: it always have been boys, they taught us since young that technology is something only boys "understand", something only boys "can be interested into", and they always expected the rest of us to take instead care of ????
+## *Final Reflection*
+I don't believe Creative Computing is something I want to explore and learn more in depth, it's not something I would include as part of my future career. As I mentioned at the beginning, I find technology very overwhelming, working with computers has always been a struggle for me due to the multiple numbers and words that I kept bumping into when working with it. I think I am more interested in the artistic side of graphic design, working with layouts, images, colours, but not numbers. However, I am always open to learn new things, and I would definitely want to learn the basics of creative computing.
+When I researched into computing and technology, it reminded me of when in school teachers would always ask boys to help them when they bumped themselves into problems when using the computer: it always have been boys, they taught us since young that technology is something only boys "understand", something only boys "can be interested into", and they always expected us to not volunteer to help; then, they would always be surprised when one of us would show our skills in tech. Another example is when students in Italy would need to choose what to specialise in High School: one of the specialisation is _technical institute_. The education offers a specific field of studies (e.g.: economy, administration, technology, tourism, agronomy) and they're very popular among male students. Before choosing what to specialise in High School, teachers in Middle School are required to suggest each student what field of studies they seem to be ideal for: non cis-male students never got adviced to study at a technical institute.
 
