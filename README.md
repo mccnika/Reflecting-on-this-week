@@ -1,5 +1,5 @@
 # **What I learnt this week + reflecting on what I learnt** 
-Technology and learning new things are quite overwhelming for me, therefore creative computing seems to be more **_overwhelming_** than I expected. For this reason, I will take small steps and begin by reflecting on Monday's workshop and on what I am learning about creative computing.
+Technology and learning new things are quite overwhelming for me, therefore creative computing seems to be more **_overwhelming_** than I expected. For this reason, I will take small steps and begin by reflecting on Monday's workshop and on what I am learning about creative computing. I am also using this opportinity to introduce myself to Markdown.
 
 ## Here's what I learnt during the week in order to write this read.me file
 
