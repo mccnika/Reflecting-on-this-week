@@ -7,8 +7,10 @@ Technology and learning new things are quite overwhelming for me, therefore crea
 Watching the video in class, I learnt that mechanisation was introduced during the industrial revolution for a better-quality life. Today, everything is run by machines, somehow every aspect of our life is linked to the huge systems that control our everyday life. Technology keeps evolving, new products keep being created that then evolve into more complex forms. 
 It’s interesting to reflect on how calculator tools were introduced to solve everyday problems, which at that time were focused on agriculture and practical jobs to produce food. The first device used for computing was the **abacus**, thought to be invented in Mesopotamia circa 2500 BC: it is known as the first-hand operated calculator tool. Charles Babbage is said to have originated the concept of a digital **_computer_**. The term _computer_ was first introduced in 1613 in a book called _The Yong Mans Gleanings_ by English writer Richard Braithwaite: at that time, the term was used to refer to a person who did calculations. In the 1800s the meaning shifted to refer to devices. These devices were doing the work that was before done by people referred as computers, but the devices still required loads of time to generate one result, as well as being very expensive and not accessible to everybody. By the end of the 19th century, computers were used for special purpose tasks in the science and engineering fields. By the mid 1900s the use of these devices was included into other fields, all of this because of the rising of the population. 
 
+
 ###### *Creative Computing*
 Creative computing combines creative arts and computing. Creative computing is found in web design, games, apps, interactive systems.
+
 
 ###### *Open Source*
 An open source is a *code made* to be accessible to people to modify and share. It gives you permission to use content and sources. It pushes people to produce and share to the public. Open source was created as a response to codes that were not accessible to everyone.
@@ -27,7 +29,6 @@ SOLEIO states:
 - Digi-gxl is another inclusive community that was born as a response to the lack of representation of women, non-binary, transgender, intersex designers. **They push people who are not cis male designers to get involved with tech.**
 
 _JavaScript_: programming language
-
 
 
 ###### *Examples of open source*
@@ -52,6 +53,6 @@ The outcome for this mini project is a read.me file. I have heard of this file b
 
 ## *Final Reflection*
 I don't believe Creative Computing is something I want to explore and learn more in depth, it's not something I would include as part of my future career. As I mentioned at the beginning, I find technology very overwhelming, working with computers has always been a struggle for me due to the multiple numbers and words that I kept bumping into when working with it. I think I am more interested in the artistic side of graphic design, working with layouts, images, colours, but not numbers. However, I am always open to learn and I would definitely want to learn the basics of creative computing. 
-When I was researching into computing and technology, it reminded me of when in school teachers would always ask boys to help them out when they bumped themselves into problems when using the computer: it always have been boys, they taught us since young that technology is something only boys "understand", something only boys "can be interested into", and they always expected us to not volunteer to help; then, they would always be surprised when one of us would show our skills in tech. Another example is when students in Italy would need to choose what to specialise in High School: one of the specialisation is _technical institute_. The education offers a specific field of studies (economy, administration, technology, tourism, agronomy) and they're very popular among male students. Before choosing what to specialise in High School, teachers in Middle School are required to suggest each student what field of studies they seem to be ideal for: non cis-male students never got adviced to study at a technical institute.
+When I was researching into computing and technology, it reminded me of when in school teachers would always ask boys to help them out when they bumped themselves into problems when using the computer: it always have been boys, they taught us since we were young that technology is something only boys "understand", something only boys "can be interested into", and they always expected us to not volunteer to help; then, they would always be surprised when one of us would show our skills in tech. Another example is when students in Italy would need to choose what to specialise in High School: one of the specialisation is _technical institute_. The education offers a specific field of studies (economy, administration, technology, tourism, agronomy) and they're very popular among male students. Before choosing what to specialise in High School, teachers in Middle School are required to suggest each student what field of studies they seem to be ideal for: non cis-male students never got adviced to study at a technical institute.
 
 Access to education shouldn't depend on our gender and identity.
