@@ -1,5 +1,7 @@
-# **Reflecting on this week**
+# **What I learnt this week and reflecting** 
 Technology and learning new things are quite overwhelming for me, therefore creative computing seems to be more **_overwhelming_** than I expected. For this reason, I will take small steps and begin by reflecting on Monday's workshop and on what I am learning about creative computing.
+
+## Here's what I learnt during the week in order to write this read.me file
 
 **_Computing_** is the activity that computers use to manage and communicate information and tasks. It consists of the design and development of hardware/software. Computing has mathematical, scientific, technological and social aspects. I have studied graphic design in college for two years but it was never mentioned that mathematics has a part in graphic design; coding was sometimes mentioned but never explained, so I am not familiar with it. 
 Watching the video in class, I learnt that mechanisation was introduced during the industrial revolution for a better-quality life. Today, everything is run by machines, somehow every aspect of our life is linked to the huge systems that control our everyday life. Technology keeps evolving, new products keep being created that then evolve into more complex forms. 
@@ -37,14 +39,11 @@ Digital Wellbeing Experiments: a collection of tools available to designers and 
 
 ###### *Physical Computing*
 Physical computing means programming in order to interact with the world that surrounds these programs. An example that comes to my mind is the _Albero Della Vita_ that was put in exposition at EXPO 2015, which took place in Milan, Italy. It’s a big sculpture/installation made of wood and steel that illuminates to the rhythm of music and water. Another example is the _Flowers of Light_ that were shown in one of the gazebos at EXPO 2015. The fake flowers shine whenever you move your hand over the large field of these flowers. 
-~~![https://brescia.corriere.it/notizie/cronaca/16_marzo_17/expo-milano-albero-della-vita-spento-luci-spettacolo-alessandra-troncana-brescia-96caab4c-ec14-11e5-b4bb-fbc47dd8e9c6.shtml]~~
-
-
-
+~~![https://brescia.corriere.it/notizie/cronaca/16_marzo_17/expo-milano-albero-della-vita-spento-luci-spettacolo-alessandra-troncana-brescia-96caab4c-ec14-11e5-b4bb-fbc47dd8e9c6.shtml]~~ ![ab67706c0000bebb710c34a96f9233abd31f5434](https://user-images.githubusercontent.com/93936365/141175373-eef0a347-70c5-4f65-bde9-36da2adbd5f5.jpg)
 
 
 ###### *Arduino*
-During the workshop, Jazmin Morris introduced us to Arduino. Arduino is an open source and company that produces single-board microcontrollers and microcontroller kits for building digital devices. 
+On Monday, after the presentation they gave on Creative Computing, Jazmin Morris introduced us to Arduino. Arduino is an open source and company that produces single-board microcontrollers and microcontroller kits for building digital devices. 
 We were then introduced to Tinkercad, a web app where you can create models for 3D printings. These designs are made up of solid and “hole” shapes. As I wasn’t able to take an Arduino kit with me, I worked with the online circuit simulator on TinkerCAD.
 The outcome for this mini project is a read me file. I have heard of this file before when downloading fonts or mock-ups online, when opening the folder? them onto my laptop. There was a file that contained the actual photoshop files and another one file named readme. In a few words, a readme file stores information about other files.
 
