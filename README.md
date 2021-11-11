@@ -13,7 +13,7 @@ Creative computing combines creative arts and computing. Creative computing is f
 ###### *Open Source*
 An open source is a *code made* to be accessible to people to modify and share. It gives you permission to use content and sources. It pushes people to produce and share to the public. Open source was created as a response to codes that were not accessible to everyone.
 
-Here's an example taken by this talk _Open Source Design: Design is the Future of Open Source - Soleio, Combine (Config)_. Soleio is a music producer turned into investor. In 2008 GitHub was introduced. Here people could share and discover open projects. It resembles the sampling world of music: producers create music using pieces taken from other songs. It shows that both pieces of music can coexist. 
+Here's an example taken by the talk _Open Source Design: Design is the Future of Open Source - Soleio, Combine (Config)_. Soleio is a music producer turned into investor. In 2008 GitHub was introduced. Here people could share and discover open projects. It resembles the sampling world of music: producers create music using pieces taken from other songs. It shows that both pieces of music can coexist. 
 He later talks about what open source could look like if it was accessible to all people and not just coders. He mentiones the **_Me Too_** movement started in 2017: a Google spreadsheet was created by Moira Donegan to organise claims of sexual assaults. She shared it with close friends and it was being brought to light when it was shared with more women in the industry. It became a resource and it helped to empower more people into opening up and make justice.
 
 SOLEIO states:
