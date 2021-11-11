@@ -45,6 +45,9 @@ Physical computing means programming in order to interact with the world that su
 ###### *Arduino*
 On Monday, after the presentation they gave on Creative Computing, Jazmin Morris introduced us to Arduino. Arduino is an open source and company that produces single-board microcontrollers and microcontroller kits for building digital devices. 
 We were then introduced to Tinkercad, a web app where you can create models for 3D printings. These designs are made up of solid and “hole” shapes. As I wasn’t able to take an Arduino kit with me, I worked with the online circuit simulator on TinkerCAD.
+
+![IMG_20211111_111442](https://user-images.githubusercontent.com/93936365/141288898-30cf212e-41e4-48ac-a539-6487aa56e4c6.png)
+
 The outcome for this mini project is a read me file. I have heard of this file before when downloading fonts or mock-ups online, when opening the folder? them onto my laptop. There was a file that contained the actual photoshop files and another one file named readme. In a few words, a readme file stores information about other files.
 
 
