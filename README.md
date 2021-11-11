@@ -22,7 +22,7 @@ SOLEIO states:
 
 ###### *Examples of creative computing communities*
 
-- p5.js: it’s a **JavaScript** that is accessible and inclusive for everyone. It’s a community made of people from different backgrounds. It makes it possible for everyone to easily access to it.
+- p5.js is a **JavaScript** that is accessible and inclusive for everyone. It’s a community made of people from different backgrounds. It makes it possible for everyone to easily access to it.
 - Stack Overflow, a website for programmers where they can ask and answer each other’s questions. It’s similar to Reddit. It would seem as a very useful way of finding information and helping each other out, but it was criticised for not being gender inclusive
 - Digi-gxl is another inclusive community that was born as a response to the lack of representation of women, non-binary, transgender, intersex designers. **They push people who are not cis male designers to get involved with tech. **
 
